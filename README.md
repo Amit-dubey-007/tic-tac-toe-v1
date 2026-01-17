@@ -28,6 +28,7 @@ This project focuses on game logic, UI clarity, and smooth user experience witho
 ## 📸 Preview
 
 ![preview](tic-tac-toe-image.png)
+![video preview](tic-tac-toe-video.mov)
 
 ---
 
